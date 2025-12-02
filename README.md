@@ -1,5 +1,5 @@
 #  Jalolbek Omongaldiyev | Software engineer
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+FullStack+Developer;I'm+a+Frontend+Developer;I'm+a+Backend+Developer;I'm+a+Python+Developer;I'm+a+React+JS+Developer;I'm+a+JS+Developer;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+FullStack+Developer;)
 
 
 
